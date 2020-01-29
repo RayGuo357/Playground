@@ -1,0 +1,1 @@
+document.getElementByID('test').innerHTML = 'Helo, World!';
